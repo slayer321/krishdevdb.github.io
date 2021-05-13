@@ -20,6 +20,8 @@
 
 .navbar-social {
     display: flex;
+    justify-content: space-around;
+    width: 20%;
 }
 
 .navbar-link {
@@ -30,7 +32,7 @@
     color: #f5f5f5;
 }
 
-.navbar-social svg {
+.navbar-icon {
     height: 20px;
     width: 20px;
 }
